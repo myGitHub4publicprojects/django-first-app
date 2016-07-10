@@ -1,0 +1,13 @@
+li a {
+    color: green;
+}
+
+body {
+    background: #eaeaea url("images/Small_penguin.gif") no-repeat right bottom;
+    padding: 5%;
+}
+
+h1 {
+	color: #222;
+	font-family: Georgia,"Times New Roman",Times,serif;
+}
